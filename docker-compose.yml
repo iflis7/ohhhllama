@@ -1,0 +1,28 @@
+services:
+  ollama:
+    image: ollama/ollama
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    # command: sh -c "ollama pull mistral && ollama serve"  # Use sh -c for chaining commands
+    # healthcheck:
+    #   test: ["CMD", "curl", "-f", "http://172.18.0.1:11434"]  # Health check to ensure Ollama is ready
+    #   interval: 10s
+    #   timeout: 5s
+    #   retries: 10
+
+  email-analyzer:
+    build: ./app
+    container_name: email-analyzer
+    depends_on:
+      - ollama
+        # condition: service_healthy  # Wait for Ollama to be healthy
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: ["python3", "main.py"]
+
+volumes:
+  ollama_data:

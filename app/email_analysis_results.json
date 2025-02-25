@@ -1,0 +1,37 @@
+[
+    {
+        "id": "6",
+        "subject": "Bienvenue sur Notre Plateforme !",
+        "sender": "support@exemple.com",
+        "category": "unknown",
+        "emotion": "unknown"
+    },
+    {
+        "id": "7",
+        "subject": "Votre Bulletin Mensuel",
+        "sender": "newsletter@exemple.com",
+        "category": "unknown",
+        "emotion": "unknown"
+    },
+    {
+        "id": "8",
+        "subject": "Rappel : R\u00e9union Demain",
+        "sender": "jeandupont@exemple.com",
+        "category": "unknown",
+        "emotion": "unknown"
+    },
+    {
+        "id": "9",
+        "subject": "Votre Commande a \u00e9t\u00e9 Exp\u00e9di\u00e9e",
+        "sender": "commandes@exemple.com",
+        "category": "unknown",
+        "emotion": "unknown"
+    },
+    {
+        "id": "10",
+        "subject": "Invitation : R\u00e9union de Lancement du Projet",
+        "sender": "mariemartin@exemple.com",
+        "category": "unknown",
+        "emotion": "unknown"
+    }
+]

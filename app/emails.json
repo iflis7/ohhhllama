@@ -1,0 +1,66 @@
+{
+    "value": [
+      
+      {
+        "id": "6",
+        "subject": "Bienvenue sur Notre Plateforme !",
+        "sender": {
+          "emailAddress": {
+            "name": "Équipe Support",
+            "address": "support@exemple.com"
+          }
+        },
+        "receivedDateTime": "2023-10-02T10:15:00Z",
+        "bodyPreview": "Merci de vous être inscrit ! Nous sommes ravis de vous compter parmi nous..."
+      },
+      {
+        "id": "7",
+        "subject": "Votre Bulletin Mensuel",
+        "sender": {
+          "emailAddress": {
+            "name": "Équipe Newsletter",
+            "address": "newsletter@exemple.com"
+          }
+        },
+        "receivedDateTime": "2023-10-06T11:45:00Z",
+        "bodyPreview": "Découvrez les nouveautés de ce mois-ci : des mises à jour, des conseils et plus encore..."
+      },
+      {
+        "id": "8",
+        "subject": "Rappel : Réunion Demain",
+        "sender": {
+          "emailAddress": {
+            "name": "Jean Dupont",
+            "address": "jeandupont@exemple.com"
+          }
+        },
+        "receivedDateTime": "2023-10-11T16:30:00Z",
+        "bodyPreview": "Petit rappel pour notre réunion prévue demain à 10h..."
+      },
+      {
+        "id": "9",
+        "subject": "Votre Commande a été Expédiée",
+        "sender": {
+          "emailAddress": {
+            "name": "Notifications de Commandes",
+            "address": "commandes@exemple.com"
+          }
+        },
+        "receivedDateTime": "2023-10-13T09:10:00Z",
+        "bodyPreview": "Bonne nouvelle ! Votre commande #123456 a été expédiée et est en route..."
+      },
+      {
+        "id": "10",
+        "subject": "Invitation : Réunion de Lancement du Projet",
+        "sender": {
+          "emailAddress": {
+            "name": "Marie Martin",
+            "address": "mariemartin@exemple.com"
+          }
+        },
+        "receivedDateTime": "2023-10-16T14:30:00Z",
+        "bodyPreview": "Vous êtes invité à la réunion de lancement du projet lundi prochain à 9h..."
+      }
+    ]
+  }
+  

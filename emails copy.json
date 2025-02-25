@@ -1,0 +1,64 @@
+{
+  "value": [
+    {
+      "id": "1",
+      "subject": "Welcome to Our Service!",
+      "sender": {
+        "emailAddress": {
+          "name": "Support Team",
+          "address": "support@example.com"
+        }
+      },
+      "receivedDateTime": "2023-10-01T09:00:00Z",
+      "bodyPreview": "Thank you for signing up! We're excited to have you on board..."
+    },
+    {
+      "id": "2",
+      "subject": "Your Monthly Newsletter",
+      "sender": {
+        "emailAddress": {
+          "name": "Newsletter Team",
+          "address": "newsletter@example.com"
+        }
+      },
+      "receivedDateTime": "2023-10-05T12:30:00Z",
+      "bodyPreview": "Here's what's new this month: exciting updates, tips, and more..."
+    },
+    {
+      "id": "3",
+      "subject": "Reminder: Meeting Tomorrow",
+      "sender": {
+        "emailAddress": {
+          "name": "John Doe",
+          "address": "johndoe@example.com"
+        }
+      },
+      "receivedDateTime": "2023-10-10T15:45:00Z",
+      "bodyPreview": "Just a quick reminder about our meeting scheduled for tomorrow at 10 AM..."
+    },
+    {
+      "id": "4",
+      "subject": "Your Order Has Been Shipped",
+      "sender": {
+        "emailAddress": {
+          "name": "Order Notifications",
+          "address": "orders@example.com"
+        }
+      },
+      "receivedDateTime": "2023-10-12T08:20:00Z",
+      "bodyPreview": "Great news! Your order #123456 has been shipped and is on its way..."
+    },
+    {
+      "id": "5",
+      "subject": "Invitation: Project Kickoff Meeting",
+      "sender": {
+        "emailAddress": {
+          "name": "Jane Smith",
+          "address": "janesmith@example.com"
+        }
+      },
+      "receivedDateTime": "2023-10-15T14:00:00Z",
+      "bodyPreview": "You are invited to the project kickoff meeting next Monday at 9 AM..."
+    }
+  ]
+}
