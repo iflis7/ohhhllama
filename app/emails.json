@@ -1,66 +1,124 @@
 {
-    "value": [
-      
-      {
-        "id": "6",
-        "subject": "Bienvenue sur Notre Plateforme !",
-        "sender": {
-          "emailAddress": {
-            "name": "Équipe Support",
-            "address": "support@exemple.com"
-          }
-        },
-        "receivedDateTime": "2023-10-02T10:15:00Z",
-        "bodyPreview": "Merci de vous être inscrit ! Nous sommes ravis de vous compter parmi nous..."
+  "value": [
+    {
+      "id": "1",
+      "subject": "Welcome to Our Service!",
+      "sender": {
+        "emailAddress": {
+          "name": "Support Team",
+          "address": "support@example.com"
+        }
       },
-      {
-        "id": "7",
-        "subject": "Votre Bulletin Mensuel",
-        "sender": {
-          "emailAddress": {
-            "name": "Équipe Newsletter",
-            "address": "newsletter@exemple.com"
-          }
-        },
-        "receivedDateTime": "2023-10-06T11:45:00Z",
-        "bodyPreview": "Découvrez les nouveautés de ce mois-ci : des mises à jour, des conseils et plus encore..."
+      "receivedDateTime": "2023-10-01T09:00:00Z",
+      "bodyPreview": "Thank you for signing up! We're excited to have you on board..."
+    },
+    {
+      "id": "2",
+      "subject": "Your Monthly Newsletter",
+      "sender": {
+        "emailAddress": {
+          "name": "Newsletter Team",
+          "address": "newsletter@example.com"
+        }
       },
-      {
-        "id": "8",
-        "subject": "Rappel : Réunion Demain",
-        "sender": {
-          "emailAddress": {
-            "name": "Jean Dupont",
-            "address": "jeandupont@exemple.com"
-          }
-        },
-        "receivedDateTime": "2023-10-11T16:30:00Z",
-        "bodyPreview": "Petit rappel pour notre réunion prévue demain à 10h..."
+      "receivedDateTime": "2023-10-05T12:30:00Z",
+      "bodyPreview": "Here's what's new this month: exciting updates, tips, and more..."
+    },
+    {
+      "id": "3",
+      "subject": "Reminder: Meeting Tomorrow",
+      "sender": {
+        "emailAddress": {
+          "name": "John Doe",
+          "address": "johndoe@example.com"
+        }
       },
-      {
-        "id": "9",
-        "subject": "Votre Commande a été Expédiée",
-        "sender": {
-          "emailAddress": {
-            "name": "Notifications de Commandes",
-            "address": "commandes@exemple.com"
-          }
-        },
-        "receivedDateTime": "2023-10-13T09:10:00Z",
-        "bodyPreview": "Bonne nouvelle ! Votre commande #123456 a été expédiée et est en route..."
+      "receivedDateTime": "2023-10-10T15:45:00Z",
+      "bodyPreview": "Just a quick reminder about our meeting scheduled for tomorrow at 10 AM..."
+    },
+    {
+      "id": "4",
+      "subject": "Your Order Has Been Shipped",
+      "sender": {
+        "emailAddress": {
+          "name": "Order Notifications",
+          "address": "orders@example.com"
+        }
       },
-      {
-        "id": "10",
-        "subject": "Invitation : Réunion de Lancement du Projet",
-        "sender": {
-          "emailAddress": {
-            "name": "Marie Martin",
-            "address": "mariemartin@exemple.com"
-          }
-        },
-        "receivedDateTime": "2023-10-16T14:30:00Z",
-        "bodyPreview": "Vous êtes invité à la réunion de lancement du projet lundi prochain à 9h..."
-      }
-    ]
-  }
-  
+      "receivedDateTime": "2023-10-12T08:20:00Z",
+      "bodyPreview": "Great news! Your order #123456 has been shipped and is on its way..."
+    },
+    {
+      "id": "5",
+      "subject": "Invitation: Project Kickoff Meeting",
+      "sender": {
+        "emailAddress": {
+          "name": "Jane Smith",
+          "address": "janesmith@example.com"
+        }
+      },
+      "receivedDateTime": "2023-10-15T14:00:00Z",
+      "bodyPreview": "You are invited to the project kickoff meeting next Monday at 9 AM..."
+    },
+    {
+      "id": "6",
+      "subject": "Bienvenue sur Notre Plateforme !",
+      "sender": {
+        "emailAddress": {
+          "name": "Équipe Support",
+          "address": "support@exemple.com"
+        }
+      },
+      "receivedDateTime": "2023-10-02T10:15:00Z",
+      "bodyPreview": "Merci de vous être inscrit ! Nous sommes ravis de vous compter parmi nous..."
+    },
+    {
+      "id": "7",
+      "subject": "Votre Bulletin Mensuel",
+      "sender": {
+        "emailAddress": {
+          "name": "Équipe Newsletter",
+          "address": "newsletter@exemple.com"
+        }
+      },
+      "receivedDateTime": "2023-10-06T11:45:00Z",
+      "bodyPreview": "Découvrez les nouveautés de ce mois-ci : des mises à jour, des conseils et plus encore..."
+    },
+    {
+      "id": "8",
+      "subject": "Rappel : Réunion Demain",
+      "sender": {
+        "emailAddress": {
+          "name": "Jean Dupont",
+          "address": "jeandupont@exemple.com"
+        }
+      },
+      "receivedDateTime": "2023-10-11T16:30:00Z",
+      "bodyPreview": "Petit rappel pour notre réunion prévue demain à 10h..."
+    },
+    {
+      "id": "9",
+      "subject": "Votre Commande a été Expédiée",
+      "sender": {
+        "emailAddress": {
+          "name": "Notifications de Commandes",
+          "address": "commandes@exemple.com"
+        }
+      },
+      "receivedDateTime": "2023-10-13T09:10:00Z",
+      "bodyPreview": "Bonne nouvelle ! Votre commande #123456 a été expédiée et est en route..."
+    },
+    {
+      "id": "10",
+      "subject": "Invitation : Réunion de Lancement du Projet",
+      "sender": {
+        "emailAddress": {
+          "name": "Marie Martin",
+          "address": "mariemartin@exemple.com"
+        }
+      },
+      "receivedDateTime": "2023-10-16T14:30:00Z",
+      "bodyPreview": "Vous êtes invité à la réunion de lancement du projet lundi prochain à 9h..."
+    }
+  ]
+}

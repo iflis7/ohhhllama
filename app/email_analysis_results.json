@@ -1,37 +1,72 @@
 [
     {
+        "id": "1",
+        "subject": "Welcome to Our Service!",
+        "sender": "support@example.com",
+        "category": "notification",
+        "emotion": "happy"
+    },
+    {
+        "id": "2",
+        "subject": "Your Monthly Newsletter",
+        "sender": "newsletter@example.com",
+        "category": "newsletter",
+        "emotion": "happy"
+    },
+    {
+        "id": "3",
+        "subject": "Reminder: Meeting Tomorrow",
+        "sender": "johndoe@example.com",
+        "category": "notification",
+        "emotion": "neutral"
+    },
+    {
+        "id": "4",
+        "subject": "Your Order Has Been Shipped",
+        "sender": "orders@example.com",
+        "category": "notification",
+        "emotion": "happy"
+    },
+    {
+        "id": "5",
+        "subject": "Invitation: Project Kickoff Meeting",
+        "sender": "janesmith@example.com",
+        "category": "work",
+        "emotion": "happy"
+    },
+    {
         "id": "6",
         "subject": "Bienvenue sur Notre Plateforme !",
         "sender": "support@exemple.com",
-        "category": "unknown",
-        "emotion": "unknown"
+        "category": "notification",
+        "emotion": "happy"
     },
     {
         "id": "7",
         "subject": "Votre Bulletin Mensuel",
         "sender": "newsletter@exemple.com",
-        "category": "unknown",
-        "emotion": "unknown"
+        "category": "newsletter",
+        "emotion": "neutral"
     },
     {
         "id": "8",
         "subject": "Rappel : R\u00e9union Demain",
         "sender": "jeandupont@exemple.com",
-        "category": "unknown",
-        "emotion": "unknown"
+        "category": "work",
+        "emotion": "neutral"
     },
     {
         "id": "9",
         "subject": "Votre Commande a \u00e9t\u00e9 Exp\u00e9di\u00e9e",
         "sender": "commandes@exemple.com",
-        "category": "unknown",
-        "emotion": "unknown"
+        "category": "notification",
+        "emotion": "happy"
     },
     {
         "id": "10",
         "subject": "Invitation : R\u00e9union de Lancement du Projet",
         "sender": "mariemartin@exemple.com",
-        "category": "unknown",
-        "emotion": "unknown"
+        "category": "work",
+        "emotion": "neutral"
     }
 ]
